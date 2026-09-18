@@ -20,3 +20,29 @@ Matrícula em cursos;
 Acesso às aulas;
 Acompanhamento do progresso;
 Cadastro e gerenciamento de cursos pelo administrador.
+Aqui está o conteúdo das seções do README em texto corrido, sem blocos de código:
+
+---
+
+**Como executar o projeto**
+
+*Pré-requisitos*
+
+Liste aqui as linguagens e ferramentas necessárias para rodar o projeto, como Node.js, navegador, XAMPP, ou outras que se apliquem ao seu caso.
+
+*Passos para rodar localmente*
+
+Primeiro, clone o repositório usando o endereço https://github.com/Noeemiapf/Noeemiapf.git. Em seguida, acesse a pasta do projeto entrando na pasta src dentro do repositório clonado. Depois, descreva o passo de instalação de dependências, caso haja alguma. Por fim, descreva como iniciar ou abrir o projeto — por exemplo, abrindo o arquivo index.html no navegador ou rodando o comando apropriado, dependendo de como o projeto foi construído.
+
+**Resultados finais**
+
+Descreva aqui o que foi efetivamente entregue no projeto: quais funcionalidades foram implementadas, incluindo prints de tela do produto final (você pode adicionar essas imagens em uma pasta como docs ou src/assets e referenciá-las aqui), além de quais limitações são conhecidas ou o que ficou pendente para uma versão futura.
+
+**Versão**
+
+A versão final do projeto (v1.0.0) pode ser consultada na aba Releases do repositório.
+
+**Documentação e testes**
+
+O relatório completo de testes e validação está disponível no arquivo testes.md, dentro da pasta docs do repositório.
+
